@@ -1,5 +1,6 @@
 # Power_bi
 complete functional power bi project. NOT PUBLISHED
+some parts were to test functionallity not for usefulness or looks
 
 ## How to run project.
 1- download repo<br>
